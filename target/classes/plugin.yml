@@ -1,0 +1,8 @@
+name: MineTeleportSilent
+main: net.bot2k3.siebe.MineTeleportSilent.MineTeleportSilentPlugin
+version: 0.2
+
+commands:
+  tps:
+    description: Silently teleports a user (must be used through a Command Block)
+    usage: /tps <player> <x> <y> <z>
