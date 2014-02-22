@@ -24,7 +24,7 @@ put a short Javadoc comment on each method.
 
 ## License
 
-Copyright (C) 2013 Siebe Tolsma
+Copyright (C) 2014 Siebe Tolsma
 
 This software is provided 'as-is', without any express or implied
 warranty. In no event will the authors be held liable for any damages
